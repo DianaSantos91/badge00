@@ -1,9 +1,9 @@
 # badge00
 Badge 00 -  Aprenda soldar 
 
-[Alt Text](https://github.com/dianasantos-ip/badge00/blob/master/Plaquinha%20Badge.png)
+![Alt Text](https://github.com/dianasantos-ip/badge00/blob/master/Plaquinha%20Badge.png)
 
-O que é Badge?
+# O que é Badge?
 
 Badge é um oscilador astável fazendo com que os leds estejam nos dois estados (ligado/desligado). Assim o nosso Badge funciona com eles oscilando.
 
